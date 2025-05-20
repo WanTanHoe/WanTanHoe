@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-Hi, I'm **WanTanHoe** — a final-year Computer Science student (First-Class predicted) passionate about how **AI can reshape the world**, from making life more efficient to unlocking new forms of creativity.
+Hello! I'm Azmeera — a final-year Computer Science student (First-Class predicted) passionate about how **AI can reshape the world**, from making life more efficient to unlocking new forms of creativity.
 
 I'm currently:
 - 🚗 Exploring real-time AI systems (e.g., autonomous lane detection for accessibility-focused vehicles)
